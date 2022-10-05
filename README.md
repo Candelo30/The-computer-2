@@ -8,6 +8,8 @@
     - component/
       - de-ds
         - Todos los dispositivos de salida y entrada
+      - Storage/
+        - Todos los dispositivos de almacenamiento
     - css/
       - style.css
       - normalize.css
