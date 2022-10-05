@@ -89,7 +89,7 @@ Este es el pie de página. Aquí suele estar la información institucional.
 ## Tener en cuenta
 
 - La etiqueta frame y frameset están obsoletas en html 5.
-- El html es para estructurar el documento ¡NO PARA AÑADIR ESTILOS EN LINEA COMO LO ES ROWS BORDER BLACK hr sin sentido o mmuchos br ENTRE OTRAS! 	
+- El html es para estructurar el documento ¡NO PARA AÑADIR ESTILOS EN LINEA COMO LO ES ROWS BORDER BLACK hr sin sentido o muchos br ENTRE OTRAS! 	
 - El css está actualmente tiene bastantes niveles de cada propiedad para estilizar una página. 
 - Hay que respetar el uso de las etiquetas.
 
