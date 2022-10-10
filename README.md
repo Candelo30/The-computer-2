@@ -21,6 +21,8 @@
     - index.html
     - HardwareySoftware.html
     - DE.DS.html
+	- Dispositivos de alamcenamiento
+	- Dispositivos de comunicacion 
 
 He realizado algunos cambios en la estructura de los documentos.
 Támbien añadido algunas etiquetas nuevas.
@@ -48,7 +50,7 @@ En cuanto a las imágenes les hace falta el atributo alt a todos esto pues si qu
 
 En algunos he añadido etiquetas que he buscado, en todos los _documentos_ puse nuevos metadatos, **!Por favor buscar informacion sobre estas!**
 
-Aquí en esta página recomiendo buscar [MDN ⚡️](https://developer.mozilla.org/es/docs/Web/HTML/Element) buscan las etiquetas que no entiendan.
+Aquí en esta página recomiendo buscar [MDN ⚡️](https://developer.mozilla.org/es/docs/Web/HTML/Element) también buscar las etiquetas que no entiendan.
 
 ### Etiquetas para sectorizar el contenido.
 
@@ -122,3 +124,8 @@ Este es el pie de página. Aquí suele estar la información institucional.
     1. ROM.
     2. RAM.
     3. Unidades de almacenamiento portatil.
+	4. Unidades ZIP
+	5. Blu-ray
+	6. Almacenamiento en la nube
+	
+- Dispositvos de comunicacion 	
